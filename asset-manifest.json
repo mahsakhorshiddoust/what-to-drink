@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/what-to-drink/static/css/main.c124b6f8.css",
+    "main.js": "/what-to-drink/static/js/main.b3ae3541.js",
+    "index.html": "/what-to-drink/index.html",
+    "main.c124b6f8.css.map": "/what-to-drink/static/css/main.c124b6f8.css.map",
+    "main.b3ae3541.js.map": "/what-to-drink/static/js/main.b3ae3541.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c124b6f8.css",
+    "static/js/main.b3ae3541.js"
+  ]
+}
